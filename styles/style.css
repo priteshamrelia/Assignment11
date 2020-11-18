@@ -1,0 +1,22 @@
+main {
+    margin-top: 10px;
+  }
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  nav {
+    margin: 20px;
+  }
+  #scrollContainer {
+    position: relative;
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  .title {
+    color: white;
+  }
